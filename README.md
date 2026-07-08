@@ -218,4 +218,4 @@ Passionate about Full Stack Development, Data Analytics, Open Source, and Modern
 Made with ❤️ using **React**, **Vite**, **Tailwind CSS**, **Recharts**, **Framer Motion**, and the **GitHub REST API**.
 
 </div>
->>>>>>> 0c63edb0ef9e6b29a51479a9bf6b26ed6ead5893
+
